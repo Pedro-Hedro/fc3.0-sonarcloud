@@ -1,3 +1,3 @@
-module math_test.go
+module test
 
 go 1.19

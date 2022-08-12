@@ -2,7 +2,7 @@ package main
 
 import "testing"
 
-func TesteSoma(t *testing.T) {
+func testeSoma(t *testing.T) {
 
 	total := soma(15, 15)
 
